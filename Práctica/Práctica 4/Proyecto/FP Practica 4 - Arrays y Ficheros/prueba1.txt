@@ -1,0 +1,9 @@
+Clave del reactor: <NFD,192>
+Tripulacion de la nave: 12
+Tripulantes eliminados: 7
+Tripulantes supervivientes: 
+ 	tripulante 100 clave: <OFE,182>
+ 	tripulante 102 clave: <MFE,102>
+ 	tripulante 104 clave: <OEC,101>
+ 	tripulante 105 clave: <MGC,193>
+ 	tripulante 106 clave: <OFE,202>
